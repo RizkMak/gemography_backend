@@ -1,4 +1,4 @@
-# gemography_backend/Second step of the hiring process.
+# Gemography backend coding challenge
 
 ## Used technologies : 
 - Python
